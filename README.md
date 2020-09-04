@@ -1,6 +1,9 @@
 # project
 project
 
+   프로젝트 관련 자료 모음
+   https://sotoedu.herokuapp.com/
+
    프로젝트 수행 문서
    (https://github.com/sotolab/project/files/5172177/Project_proposal.zip)
 
