@@ -1,11 +1,12 @@
 # project
-project(sotoedu)
+project(sotolabedu)
 
    프로젝트 관련 자료 모음
    https://sotoedu.herokuapp.com/
 
    프로젝트 수행 문서
-   https://github.com/sotolab/project/files/6162800/Project_proposal_0318.zip
+   https://github.com/sotolab/project/files/7804575/Project_proposal_0103.zip
+   
 
     1 mkdir c:\workspace
 
