@@ -1,5 +1,5 @@
 # project
-project(sotolabedu)
+project(sotoedu)
 
    프로젝트 관련 자료 모음
    https://sotoedu.herokuapp.com/
