@@ -5,7 +5,7 @@ project(sotoedu)
    https://sotoedu.herokuapp.com/
 
    프로젝트 수행 문서
-   https://github.com/sotolab/project/files/7804575/Project_proposal_0103.zip
+   https://github.com/sotolab/project/files/8196399/Project_proposal_0307.zip
    
 
     1 mkdir c:\workspace
